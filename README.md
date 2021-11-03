@@ -18,15 +18,17 @@ Creating a repository using GitHub and practicing to manage a new branch. Make c
 ## How to Run Program 
 
 A list of files that need to be avilable and how to run the program
-```text
+
 :bookmark: Hello_World
- 
-    :point_right: README.md
-    :point_right: pgmname1.R
-    :point_right: filename1.csv
-    :point_right: examples.html
-   
-```
+
+    👉 README.md
+    
+    👉 pgmname1.R
+    
+    👉 filename1.csv
+    
+    👉 examples.html
+
 ## Files Used 
 
 - Did you use any datafiles?  
@@ -35,7 +37,7 @@ A list of files that need to be avilable and how to run the program
 - What is contained within the data files?
 - Datafile considerations 
 - URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+[Spacecraft fire safety demonstration](https://catalog.data.gov/dataset/spacecraft-fire-safety-demonstration)
 
 
 ## Additional Documentation
