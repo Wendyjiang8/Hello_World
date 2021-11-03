@@ -21,13 +21,12 @@ A list of files that need to be avilable and how to run the program
 ```text
 :bookmark: Hello_World
  
-    :point_right:README.md
-    :point_right:pgmname1.R
-    :point_right:filename1.csv
-    :point_right:examples.html
+    :point_right: README.md
+    :point_right: pgmname1.R
+    :point_right: filename1.csv
+    :point_right: examples.html
    
 ```
-
 ## Files Used 
 
 - Did you use any datafiles?  
